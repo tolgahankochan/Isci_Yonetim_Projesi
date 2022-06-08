@@ -1,0 +1,1 @@
+Temel Ve Komisyonlu İşçi Özet : İşçi { İsim = 'Tolga', Soyisim = 'KOÇHAN', Sosyal Güvenlik Numarası = 5} Komisyonlu İşçi : {  Brüt satış = 20, Komisyon oranı = 1.5} Taban Maaş Ve Komisyonlu İşçi : {  Taban maaş = 1000a}

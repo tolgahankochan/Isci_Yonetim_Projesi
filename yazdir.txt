@@ -1,0 +1,1 @@
+Isci { İsim = 'Tolga', Soyisim = 'KOÇHAN', Sosyal Güvenlik Numarası = 5} KomisyonluIsci {  Brüt satış = 20, Komisyon oranı = 1.5} TabanMaasVeKomisyonluIsci {  Taban maaş = 1000a}

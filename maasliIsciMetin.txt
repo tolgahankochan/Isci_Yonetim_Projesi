@@ -1,0 +1,1 @@
+Maaşlı İşçi Özet : İşçi { İsim = 'Tolga', Soyisim = 'KOÇHAN', Sosyal Güvenlik Numarası = 5} Maaşlı İşçi : {  Haftalık Maaş = 5000 }
